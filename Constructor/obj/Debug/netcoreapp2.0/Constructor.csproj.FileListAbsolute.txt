@@ -1,0 +1,10 @@
+C:\Users\n.avetisova\Desktop\Constructor\Constructor\bin\Debug\netcoreapp2.0\Constructor.deps.json
+C:\Users\n.avetisova\Desktop\Constructor\Constructor\bin\Debug\netcoreapp2.0\Constructor.runtimeconfig.json
+C:\Users\n.avetisova\Desktop\Constructor\Constructor\bin\Debug\netcoreapp2.0\Constructor.runtimeconfig.dev.json
+C:\Users\n.avetisova\Desktop\Constructor\Constructor\bin\Debug\netcoreapp2.0\Constructor.dll
+C:\Users\n.avetisova\Desktop\Constructor\Constructor\bin\Debug\netcoreapp2.0\Constructor.pdb
+C:\Users\n.avetisova\Desktop\Constructor\Constructor\obj\Debug\netcoreapp2.0\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\n.avetisova\Desktop\Constructor\Constructor\obj\Debug\netcoreapp2.0\Constructor.AssemblyInfoInputs.cache
+C:\Users\n.avetisova\Desktop\Constructor\Constructor\obj\Debug\netcoreapp2.0\Constructor.AssemblyInfo.cs
+C:\Users\n.avetisova\Desktop\Constructor\Constructor\obj\Debug\netcoreapp2.0\Constructor.dll
+C:\Users\n.avetisova\Desktop\Constructor\Constructor\obj\Debug\netcoreapp2.0\Constructor.pdb

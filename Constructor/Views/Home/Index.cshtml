@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<html>
+<head>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/constructor.js"></script>
+</head>
+
+<body>
+    <div id="buttonArea" class="form-inline">
+        <input type="text" class="form-control mb-2 mr-sm-2" id="name" placeholder="header name">
+        <a class="btn btn-primary mb-2" id="createHeader">create on this level</a>
+        <a class="btn btn-primary mb-2" id="createSubHeader">create child</a>
+        <a class="btn btn-danger mb-2" id="deleteHeader">delete</a>
+        <a class="btn btn-warning mb-2" id="referenceHeader">reference</a>
+    </div>
+
+    <table id="constructor" class="table table-bordered">
+        <thead>
+
+        </thead>
+    </table>
+</body>
+</html>
